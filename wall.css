@@ -1,0 +1,19 @@
+body{
+	background-color: aliceblue;
+	width: 96%;
+	margin: auto;
+}
+
+#list ul li{
+	list-style-type: none;
+	float: left;
+	color: white;
+	padding: 13px;
+}
+
+#list{
+	width: 98%;
+	margin: auto;
+	font-family: bold;
+	font-style: italic;
+}
